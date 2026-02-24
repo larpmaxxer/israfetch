@@ -1,6 +1,16 @@
-create israfetch
-```bash
-nano /usr/local/bin/israfetch
+clone this repo
 ```
-
-paste in the israfetch.fish file into it and run israfetch in your terminal
+git clone https://github.com/larpmaxxer/israfetch
+```
+cd into it
+```bash
+cd israfetch
+```
+make it executable
+```
+chmod +x israfetch.fish
+```
+and simply run it
+```
+./israfetch.fish
+```
